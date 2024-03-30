@@ -1,0 +1,4 @@
+# Run dialigue msinfo32
+# Run cmd as administrator whoami for user's name
+# Run cmd as administrator hostname for compter name
+# Run cmd as administrator winver for retrieving Windows ver
